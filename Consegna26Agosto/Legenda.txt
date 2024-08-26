@@ -1,0 +1,4 @@
+Legenda:
+
+Colore giallo: esecuzione
+Colore verde: attesa
